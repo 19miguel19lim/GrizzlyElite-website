@@ -8,7 +8,7 @@ function NavBar() {
           exclusive invite joe
         </h1>
         <img
-          src="/public/assets/Grizzly Smaller (1) 2.png"
+          src="assets/Grizzly Smaller (1) 2.png"
           alt=""
           className="scale-75 md:scale-100"
         />

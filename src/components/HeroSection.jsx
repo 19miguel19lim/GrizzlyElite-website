@@ -6,7 +6,7 @@ function HeroSection() {
       <div className="container mx-auto ">
         <div className="flex flex-col items-center justify-between space-y-12   max-w-6xl mx-auto py-24 px-6 lg:flex-row lg:space-y-0 lg:space-x-12">
           <img
-            src="/public/assets/05-Joaquin-Revllo-22_0039-Full 1.png "
+            src="assets/05-Joaquin-Revllo-22_0039-Full 1.png "
             alt=""
             className=""
           />

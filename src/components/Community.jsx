@@ -11,10 +11,10 @@ function Community() {
         {/* item 1 */}
         <div className="flex flex-col items-center justify-center space-y-6 lg:flex-row lg:space-x-24 lg:space-y-0">
           <div className="relative">
-            <img src="/public/assets/Sam-Purcell.png" alt="" />
+            <img src="assets/Sam-Purcell.png" alt="" />
             <div className="absolute top-[35%] left-[40%] ">
               <img
-                src="/public/assets/orange-play-button.png"
+                src="assets/orange-play-button.png"
                 alt=""
                 className="hover:scale-110 duration-300 cursor-pointer"
               />
@@ -22,14 +22,14 @@ function Community() {
           </div>
           <div className="flex flex-col items-start justify-center space-y-6">
             <div className="flex items-center space-x-4">
-              <img src="/public/assets/sam-small.png" alt="" />
+              <img src="assets/sam-small.png" alt="" />
               <p className="text-md text-left">
                 Sam Pucell
                 <br />
                 <span className="text-sm text-gray-500">Grade 11 Student</span>
               </p>
             </div>
-            <img src="/public/assets/stars.png" alt="" />
+            <img src="assets/stars.png" alt="" />
             <p className="max-w-md text-left">
               "Grizzly Elite made me realize that I had this huge chasm of
               untapped potential. It was not just a minor improvement but a
@@ -44,14 +44,14 @@ function Community() {
         <div className="flex flex-col-reverse items-center justify-center space-y-6 lg:flex-row lg:space-x-24 lg:space-y-0">
           <div className="flex flex-col items-start justify-center space-y-6">
             <div className="flex items-center space-x-4">
-              <img src="/public/assets/nahshon-small.png" alt="" />
+              <img src="assets/nahshon-small.png" alt="" />
               <p className="text-md text-left">
                 Nahshon Weissberg
                 <br />
                 <span className="text-sm text-gray-500">Grade 11 Student</span>
               </p>
             </div>
-            <img src="/public/assets/stars.png" alt="" />
+            <img src="assets/stars.png" alt="" />
             <p className="max-w-md text-left">
               "Participating in Joaquin Revello's Grizzly Elite program is the
               best decision I have ever made.
@@ -64,10 +64,10 @@ function Community() {
             </p>
           </div>
           <div className="relative pb-6 lg:pb-0">
-            <img src="/public/assets/nahshon weissberg.png" alt="" />
+            <img src="assets/nahshon weissberg.png" alt="" />
             <div className="absolute top-[35%] left-[40%] ">
               <img
-                src="/public/assets/red-play-button.png"
+                src="assets/red-play-button.png"
                 alt=""
                 className="hover:scale-110 duration-300 cursor-pointer"
               />
@@ -78,7 +78,7 @@ function Community() {
         {/* item 3 & 4 */}
         <div className="flex flex-col items-center justify-between space-y-12 lg:flex-row lg:space-x-24 lg:space-y-0">
           <div className="flex items-center justify-between max-w-md space-x-4">
-            <img src="/public/assets/Anderson-irawan.png" alt="" />
+            <img src="assets/Anderson-irawan.png" alt="" />
             <div className="flex flex-col items-start justify-center">
               <p className="text-md text-left">
                 "Joaquin is an inspiration and has helped me with my studies. I
@@ -90,7 +90,7 @@ function Community() {
             </div>
           </div>
           <div className="flex items-center justify-between max-w-md space-x-4">
-            <img src="/public/assets/Shunsuke-Tsutsui.png" alt="" />
+            <img src="assets/Shunsuke-Tsutsui.png" alt="" />
             <div className="flex flex-col items-start justify-center">
               <p className="text-md text-left">
                 "Grizzly Elite makes great content which helped me a lot in
@@ -135,7 +135,7 @@ function Community() {
         {/* item bibi */}
         <div className="flex flex-col items-center justify-center space-y-6 lg:flex-row lg:space-x-24 lg:space-y-0">
           <div className="relative">
-            <img src="/public/assets/bibi.png" alt="" />
+            <img src="assets/bibi.png" alt="" />
           </div>
           <div className="flex flex-col items-start justify-center space-y-6 px-2">
             <h1 className="text-2xl font-bold">Meet Bibi</h1>
@@ -168,10 +168,10 @@ function Community() {
       {/* item 1 */}
       <div className="flex flex-col items-center justify-center space-y-6 lg:flex-row lg:space-x-24 lg:space-y-0">
         <div className="relative">
-          <img src="/public/assets/asian-lady.png" alt="" />
+          <img src="assets/asian-lady.png" alt="" />
           <div className="absolute top-[35%] left-[40%] ">
             <img
-              src="/public/assets/red-play-button.png"
+              src="assets/red-play-button.png"
               alt=""
               className="hover:scale-110 duration-300 cursor-pointer"
             />
@@ -179,7 +179,7 @@ function Community() {
         </div>
         <div className="flex flex-col items-start justify-center px-2 space-y-6">
           <div className="flex items-center space-x-4">
-            <img src="/public/assets/Vector.png" alt="" />
+            <img src="assets/Vector.png" alt="" />
           </div>
           <h1 className="text-xl font-bold text-white">
             There’s now a fire in them. Their eyes are sparkling.

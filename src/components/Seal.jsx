@@ -4,7 +4,7 @@ function Seal() {
   return (
     <div className=" bg-black">
       <div className="flex flex-col items-center justify-center text-center overflowX-hidden text-white space-y-6 py-24">
-        <img src="/public/assets/seal.png" alt="" className="-mt-64" />
+        <img src="assets/seal.png" alt="" className="-mt-64" />
         <h1 className="text-3xl lg:text-6xl font-bold capitalize max-w-6xl px-4">
           why don't other educational experts{" "}
           <span className="text-orangeLight">guarantee</span> success? well,{" "}
@@ -22,13 +22,13 @@ function Seal() {
                 offering two separate guarantees.{" "}
               </h1>
             </div>
-            <img src="/public/assets/seal-img.png" alt="" />
+            <img src="assets/seal-img.png" alt="" />
           </div>
         </div>
         <div className="flex flex-col items-center justify-center space-y-12 px-4 max-w-7xl">
           {/* item 1 */}
           <div className="flex flex-col items-start justify-between lg:flex-row lg:space-x-2">
-            <img src="/public/assets/seal-icon.png" alt="" className="h-24" />
+            <img src="assets/seal-icon.png" alt="" className="h-24" />
             {/* content */}
             <div className="flex flex-col items-start justify-center text-left  space-y-4">
               <h1 className="text-4xl font-bold t">
@@ -50,7 +50,7 @@ function Seal() {
           </div>
           {/* item 2 */}
           <div className="flex flex-col items-start justify-between lg:flex-row lg:space-x-2">
-            <img src="/public/assets/seal-icon.png" alt="" className="h-24" />
+            <img src="assets/seal-icon.png" alt="" className="h-24" />
             {/* content */}
             <div className="flex flex-col items-start justify-center text-left space-y-4">
               <h1 className="text-4xl font-bold t">

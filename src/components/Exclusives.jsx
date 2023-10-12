@@ -9,7 +9,7 @@ function Exclusives() {
           {/* item 1 */}
           <div className="flex flex-col space-y-4 items-start  justify-between lg:flex-row lg:space-x-20 lg:items-center">
             <img
-              src="/public/assets/exclusive-img.png"
+              src="assets/exclusive-img.png"
               alt=""
               className="hidden lg:block lg:h-24"
             />
@@ -27,7 +27,7 @@ function Exclusives() {
           {/* item 1 */}
           <div className="flex flex-col space-y-4 items-start  justify-between lg:flex-row lg:space-x-20 lg:items-center">
             <img
-              src="/public/assets/exclusive-img.png"
+              src="assets/exclusive-img.png"
               alt=""
               className="hidden lg:block lg:h-24"
             />
@@ -45,7 +45,7 @@ function Exclusives() {
           {/* item 1 */}
           <div className="flex flex-col space-y-4 items-start  justify-between lg:flex-row lg:space-x-20 lg:items-center">
             <img
-              src="/public/assets/exclusive-img.png"
+              src="assets/exclusive-img.png"
               alt=""
               className="hidden lg:block lg:h-24"
             />
@@ -63,7 +63,7 @@ function Exclusives() {
           {/* item 1 */}
           <div className="flex flex-col space-y-4 items-start  justify-between lg:flex-row lg:space-x-20 lg:items-center">
             <img
-              src="/public/assets/exclusive-img.png"
+              src="assets/exclusive-img.png"
               alt=""
               className="hidden lg:block lg:h-24"
             />
@@ -81,7 +81,7 @@ function Exclusives() {
           {/* item 1 */}
           <div className="flex flex-col space-y-4 items-start  justify-between lg:flex-row lg:space-x-20 lg:items-center">
             <img
-              src="/public/assets/exclusive-img.png"
+              src="assets/exclusive-img.png"
               alt=""
               className="hidden lg:block lg:h-24"
             />
@@ -98,10 +98,10 @@ function Exclusives() {
           </div>
         </div>
         <div className="absolute top-20 lg:top-32 right-0">
-          <img src="/public/assets/Polygon 3.png" alt="" />
+          <img src="assets/Polygon 3.png" alt="" />
         </div>
         <div className="absolute bottom-48 right-0 lg:left-0">
-          <img src="/public/assets/Star 4.png" alt="" />
+          <img src="assets/Star 4.png" alt="" />
         </div>
       </div>
     </div>

@@ -14,11 +14,11 @@ function Payment() {
           <p className="font-semibold text-lg">card</p>
         </div>
         <div className="flex flex-col items-start justify-center pr-24 pl-2 py-4 border-[3px] border-gray-200 rounded-lg hover:border-orangeDark">
-          <img src="/public/assets/iDeal.png" alt="" />
+          <img src="assets/iDeal.png" alt="" />
           <p className="font-semibold text-lg">iDeal</p>
         </div>
         <div className="flex flex-col items-start justify-center pr-24 pl-2 py-4 border-[3px] border-gray-200 rounded-lg hover:border-orangeDark">
-          <img src="/public/assets/klarna.png" alt="" />
+          <img src="assets/klarna.png" alt="" />
           <p className="font-semibold text-lg">Klarna</p>
         </div>
         <div className="flex flex-col items-center justify-center px-6 py-6 border-[3px] border-gray-200 rounded-lg hover:border-orangeDark">

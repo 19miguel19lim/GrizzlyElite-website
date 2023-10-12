@@ -8,7 +8,7 @@ function Reviews() {
           {/* Card 1 */}
           <div className="flex flex-col items-start justify-between space-y-6 text-white w-[80%] lg:w-1/3 lg:flex-row lg:space-y-0 lg:space-x-2 ">
             {/* img */}
-            <img src="/public/assets/Ellipse 9.png" alt="" />
+            <img src="assets/Ellipse 9.png" alt="" />
             {/* content */}
             <div className="flex flex-col justify-center space-y-2 text-left">
               <h1 className="text-xl font-bold">Wade Warren</h1>
@@ -20,17 +20,13 @@ function Reviews() {
                 tempus adipiscing enim, mauris lacus tincidunt eget elit. Id
                 ultrices.
               </p>
-              <img
-                src="/public/assets/Group 35413.png"
-                alt=""
-                className="h-4 w-20"
-              />
+              <img src="assets/Group 35413.png" alt="" className="h-4 w-20" />
             </div>
           </div>
           {/* Card 1 */}
           <div className="flex flex-col items-start justify-between space-y-6 text-white w-[80%] lg:w-1/3 lg:flex-row lg:space-y-0 lg:space-x-2 ">
             {/* img */}
-            <img src="/public/assets/Ellipse 9.png" alt="" />
+            <img src="assets/Ellipse 9.png" alt="" />
             {/* content */}
             <div className="flex flex-col justify-center space-y-2 text-left">
               <h1 className="text-xl font-bold">Wade Warren</h1>
@@ -42,17 +38,13 @@ function Reviews() {
                 tempus adipiscing enim, mauris lacus tincidunt eget elit. Id
                 ultrices.
               </p>
-              <img
-                src="/public/assets/Group 35413.png"
-                alt=""
-                className="h-4 w-20"
-              />
+              <img src="assets/Group 35413.png" alt="" className="h-4 w-20" />
             </div>
           </div>
           {/* Card 1 */}
           <div className="flex flex-col items-start justify-between space-y-6 text-white w-[80%] lg:w-1/3 lg:flex-row lg:space-y-0 lg:space-x-2 ">
             {/* img */}
-            <img src="/public/assets/Ellipse 9.png" alt="" />
+            <img src="assets/Ellipse 9.png" alt="" />
             {/* content */}
             <div className="flex flex-col justify-center space-y-2 text-left">
               <h1 className="text-xl font-bold">Wade Warren</h1>
@@ -64,24 +56,20 @@ function Reviews() {
                 tempus adipiscing enim, mauris lacus tincidunt eget elit. Id
                 ultrices.
               </p>
-              <img
-                src="/public/assets/Group 35413.png"
-                alt=""
-                className="h-4 w-20"
-              />
+              <img src="assets/Group 35413.png" alt="" className="h-4 w-20" />
             </div>
           </div>
 
           <div className="hidden lg:block absolute top-[50%] left-[-10%]">
             <img
-              src="/public/assets/left-arrow.png"
+              src="assets/left-arrow.png"
               alt=""
               className="hover:scale-110 duration-300"
             />
           </div>
           <div className="hidden lg:block absolute top-[50%] right-[-10%]">
             <img
-              src="/public/assets/right-arrow.png"
+              src="assets/right-arrow.png"
               alt=""
               className="hover:scale-110 duration-300"
             />

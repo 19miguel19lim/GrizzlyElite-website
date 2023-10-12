@@ -10,10 +10,10 @@ function Challenge() {
 
       <div className="flex flex-col items-center justify-center space-y-6 lg:flex-row lg:space-x-24 lg:space-y-0">
         <div className="relative">
-          <img src="/public/assets/fb-img.png" alt="" />
+          <img src="assets/fb-img.png" alt="" />
           <div className="absolute top-[35%] left-[40%] ">
             <img
-              src="/public/assets/red-play-button.png"
+              src="assets/red-play-button.png"
               alt=""
               className="hover:scale-110 duration-300 cursor-pointer"
             />
@@ -26,14 +26,14 @@ function Challenge() {
             scelerisque enim vitae vitae. Porttitor risus enim malesuada.
           </p>
           <div className="flex items-center justify-center space-x-2">
-            <img src="/public/assets/triange-icon.png" alt="" />
+            <img src="assets/triange-icon.png" alt="" />
             <p className="max-w-md text-left ">
               A pellentesque ipsum mi a volutpat felis. Libero ultricies
               fringilla ut leo risus non morbi. Ridiculus pretium magna.
             </p>
           </div>
           <div className="flex items-center justify-center space-x-2">
-            <img src="/public/assets/triange-icon.png" alt="" />
+            <img src="assets/triange-icon.png" alt="" />
             <p className="max-w-md text-left ">
               A pellentesque ipsum mi a volutpat felis. Libero ultricies
               fringilla ut leo risus non morbi. Ridiculus pretium magna.

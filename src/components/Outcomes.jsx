@@ -9,14 +9,14 @@ function Outcomes() {
               {/* item 1 */}
               <li className="text-md md:text-lg flex items-center justify-center space-x-6">
                 <span>
-                  <img src="/public/assets/bullet.png" alt="" />
+                  <img src="assets/bullet.png" alt="" />
                 </span>
                 AchieveLongTermMonstrousGoals
               </li>
               {/* item 1 */}
               <li className="text-md md:text-lg flex items-center justify-center space-x-6">
                 <span>
-                  <img src="/public/assets/bullet.png" alt="" />
+                  <img src="assets/bullet.png" alt="" />
                 </span>
                 PeaceofMindKnowingYouHaveCriticalAdvantage
                 <br />
@@ -25,45 +25,45 @@ function Outcomes() {
               {/* item 1 */}
               <li className="text-md md:text-lg flex items-center justify-center space-x-6">
                 <span>
-                  <img src="/public/assets/bullet.png" alt="" />
+                  <img src="assets/bullet.png" alt="" />
                 </span>
                 Free Time to Pursue Passions/Hobbies/ HighSchool
               </li>
               {/* item 1 */}
               <li className="text-md md:text-lg flex items-center justify-center space-x-6">
                 <span>
-                  <img src="/public/assets/bullet.png" alt="" />
+                  <img src="assets/bullet.png" alt="" />
                 </span>
                 Developer Insane Laser Focus
               </li>
               {/* item 1 */}
               <li className="text-md md:text-lg flex items-center justify-center space-x-6">
                 <span>
-                  <img src="/public/assets/bullet.png" alt="" />
+                  <img src="assets/bullet.png" alt="" />
                 </span>
                 Permanent Change in Thinking and Life Skills
               </li>
               {/* item 1 */}
               <li className="text-md md:text-lg flex items-center justify-center space-x-6">
                 <span>
-                  <img src="/public/assets/bullet.png" alt="" />
+                  <img src="assets/bullet.png" alt="" />
                 </span>
                 Eliminate Stress and Conquer Mental Health
               </li>
             </ul>
           </div>
           <div className="flex flex-col space-y-12  items-start justify-center lg:w-1/2 ">
-            <img src="/public/assets/outcome-img.png" alt="" className="" />
+            <img src="assets/outcome-img.png" alt="" className="" />
 
             <p className="text-lg relative text-gray-400 ml-12 max-w-sm lg:ml-0">
               Aliquam quis tincidunt lectus, vitae aliquam metus. Donec congue
               euismod orci non varius. Ut convallis a mi in suscipit
               <div className="absolute top-0 left-[-15%]">
-                <img src="/public/assets/Vector.png" alt="" />
+                <img src="assets/Vector.png" alt="" />
               </div>
             </p>
             <img
-              src="/public/assets/Outcome-lines.png"
+              src="assets/Outcome-lines.png"
               alt=""
               className="ml-12 lg:ml-0"
             />

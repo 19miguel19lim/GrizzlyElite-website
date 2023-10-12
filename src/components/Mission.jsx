@@ -27,7 +27,7 @@ function Mission() {
           ></path>
         </svg>
       </div>
-      <img src="/public/assets/bottom-logo.png" alt="" className="lg:pt-16" />
+      <img src="assets/bottom-logo.png" alt="" className="lg:pt-16" />
       <h1 className="text-center pt-6">
         Become an <span className="text-orangeLight">Elite</span> Ultra High
         Perfroming Student
