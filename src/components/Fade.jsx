@@ -3,7 +3,7 @@ import { useEffect, useState } from "react";
 
 function Fade() {
   const [lastYPos, setLastYPos] = useState(0);
-  const [shouldShow, setShouldShow] = useState(false);
+  const [shouldShow, setShouldShow] = useState(true);
 
   useEffect(() => {
     function hanldeScroll() {
